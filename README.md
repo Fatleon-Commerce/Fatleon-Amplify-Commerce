@@ -51,7 +51,7 @@ If you already see AWS Amplify as a self-hosted option that performs well and ke
 | Integrations | Supported payment, analytics, and customer communication integrations |
 | AWS deployment | Deploy the application within your own AWS account |
 
-See the live demo and official documentation for current functionality and supported integrations.
+See the [feature list](docs/product/features.md) for what ships in the source, and the [live demo](https://live.fatleon.com/) for how it runs.
 
 ## Technology Stack
 
