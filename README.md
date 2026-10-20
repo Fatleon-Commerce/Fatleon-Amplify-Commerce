@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/fatleon-logo.png" alt="FatLeon" width="280">
+  <img src="assets/fatleon-logo.png" alt="FatLeon self-hosted e-commerce software" width="280">
 </p>
 
-<h3 align="center">Self-Hosted E-commerce Software for AWS Amplify Gen 2</h3>
+<h3 align="center">FatLeon Self-Hosted E-commerce Software for AWS Amplify Gen 2</h3>
 
 <p align="center">
   <strong>Own your code. Control your data. Run your store on AWS.</strong>
@@ -23,16 +23,16 @@
 </p>
 
 <p align="center">
-  FatLeon is a complete e-commerce system distributed as commercial source code. It brings together a storefront, checkout, order management, an admin dashboard, and supported integrations in one customizable codebase.
+  FatLeon commerce software is a complete e-commerce system distributed as commercial source code. It brings together a storefront, checkout, order management, an admin dashboard, and supported integrations in one customizable codebase.
   <br><br>
   Deploy it in your own AWS account and adapt it to your business.
 </p>
 
 ## Overview
 
-If you already see AWS Amplify as a self-hosted option that performs well and keeps infrastructure costs down, FatLeon is the commerce system to start from. The storefront, checkout, order, and admin flows are already in the source code, so you do not have to map that logic out again.
+If you already see AWS Amplify as a self-hosted option that performs well and keeps infrastructure costs down, FatLeon e-commerce is the commerce system to start from. The storefront, checkout, order, and admin flows are already in the source code, so you do not have to map that logic out again.
 
-### Why FatLeon?
+### Why FatLeon Commerce?
 
 - **Full source code:** Start with an existing commerce application and customize it for your needs.
 - **Self-hosted on AWS:** Run the application in your own AWS account and retain control over your environment.
@@ -69,6 +69,8 @@ FatLeon uses technologies from the modern web and AWS ecosystem, including:
 
 The exact services and configuration required depend on the application features you enable and your deployment setup.
 
+FatLeon starts from a commerce foundation you can own, then leaves room to specialize the parts that make the business different. See the [design philosophy](docs/product/design-philosophy.md).
+
 ## Why AWS Amplify?
 
 FatLeon uses AWS Amplify Gen 2 and managed AWS services so you spend less time maintaining servers and more time on the store.
@@ -85,7 +87,7 @@ An always-on EC2 `t3.small` in US East (N. Virginia) is about $15.18 per month f
 
 [Learn more about AWS Amplify](https://aws.amazon.com/amplify/) · [Explore AWS Amplify pricing](https://aws.amazon.com/amplify/pricing/)
 
-## Who Is FatLeon For?
+## Who Is FatLeon E-commerce For?
 
 - **Businesses and brands** that want more control over their commerce application and data environment.
 - **Developers** who want an existing foundation for building customized online stores.
