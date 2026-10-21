@@ -98,9 +98,11 @@ An always-on EC2 `t3.small` in US East (N. Virginia) is about $15.18 per month f
 
 FatLeon is commercial software distributed under a license. Public documentation on GitHub does not make the product open source.
 
-The Standard and Agency licenses may grant different usage rights. Review the current license terms on the official website before using FatLeon, especially for client projects or multiple deployments.
+The Standard and Agency licenses include the same product and differ in usage rights. See [licensing](docs/product/licensing.md), and review the current terms on the [licensing reference](https://docs.fatleon.com/reference/licensing) before a client project.
 
 FatLeon does not charge a recurring platform subscription fee. You are responsible for AWS infrastructure charges and any fees from payment providers or other third-party services you use.
+
+Common questions on hosting, fees, and resale are in the [FAQ](docs/product/faq.md).
 
 ## Get Started
 
