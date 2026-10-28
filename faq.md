@@ -61,7 +61,7 @@ FatLeon charges no maintenance fee. AWS bills for what you use. At the lowest us
 
 ## Does the backend scale with usage?
 
-Yes. You do not rent a server for the whole month. Pages run on Amplify Hosting, the API is AppSync, data is in DynamoDB, sign-in is Cognito, files are in S3, and work such as placing an order runs on Lambda when a request arrives. Capacity follows use and falls back when the store is quiet.
+Yes. You do not rent a server for the whole month. Pages run on Amplify Hosting, the API is AppSync, data is in DynamoDB, sign-in is Cognito, files are in S3, and work such as placing an order runs on Lambda when a request arrives. Capacity follows use and falls back when the store is quiet. The shape is in the [architecture](architecture.md).
 
 ## Can I resell FatLeon as my own kit?
 

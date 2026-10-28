@@ -51,7 +51,7 @@ If you already see AWS Amplify as a self-hosted option that performs well and ke
 | Integrations | Supported payment, analytics, and customer communication integrations |
 | AWS deployment | Deploy the application within your own AWS account |
 
-See the [feature list](docs/product/features.md) for what ships in the source, and the [live demo](https://live.fatleon.com/) for how it runs.
+See the [feature list](features.md) for what ships in the source, and the [live demo](https://live.fatleon.com/) for how it runs.
 
 ## Technology Stack
 
@@ -67,9 +67,9 @@ FatLeon uses technologies from the modern web and AWS ecosystem, including:
 | <a href="https://aws.amazon.com/dynamodb/"><img src="assets/icons/amazon-dynamodb.svg" width="28" height="28" alt="Amazon DynamoDB"></a> [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) | Database |
 | <a href="https://aws.amazon.com/s3/"><img src="assets/icons/amazon-s3.svg" width="28" height="28" alt="Amazon S3"></a> [Amazon S3](https://aws.amazon.com/s3/) | Storage |
 
-The exact services and configuration required depend on the application features you enable and your deployment setup.
+The exact services and configuration required depend on the application features you enable and your deployment setup. How a visit and an order move through these services is in the [architecture](architecture.md).
 
-FatLeon starts from a commerce foundation you can own, then leaves room to specialize the parts that make the business different. See the [design philosophy](docs/product/design-philosophy.md).
+FatLeon starts from a commerce foundation you can own, then leaves room to specialize the parts that make the business different. See the [design philosophy](design-philosophy.md).
 
 ## Why AWS Amplify?
 
@@ -98,11 +98,11 @@ An always-on EC2 `t3.small` in US East (N. Virginia) is about $15.18 per month f
 
 FatLeon is commercial software distributed under a license. Public documentation on GitHub does not make the product open source.
 
-The Standard and Agency licenses include the same product and differ in usage rights. See [licensing](docs/product/licensing.md), and review the current terms on the [licensing reference](https://docs.fatleon.com/reference/licensing) before a client project.
+The Standard and Agency licenses include the same product and differ in usage rights. See [licensing](licensing.md), and review the current terms on the [licensing reference](https://docs.fatleon.com/reference/licensing) before a client project.
 
 FatLeon does not charge a recurring platform subscription fee. You are responsible for AWS infrastructure charges and any fees from payment providers or other third-party services you use.
 
-Common questions on hosting, fees, and resale are in the [FAQ](docs/product/faq.md).
+Common questions on hosting, fees, and resale are in the [FAQ](faq.md).
 
 ## Get Started
 

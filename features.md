@@ -31,7 +31,7 @@ Support different purchasing scenarios and manage orders from a centralized admi
 
 Manage your store's products, content, and configuration from one place.
 
-![FatLeon admin dashboard showing products, orders, sales, and support at a glance](admin-dashboard.png)
+![FatLeon admin dashboard showing products, orders, sales, and support at a glance](assets/admin-dashboard.png)
 
 - **Product catalog:** Manage products, brands, and inventory.
 - **Content management:** Create and manage posts and other site content.
