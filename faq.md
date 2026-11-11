@@ -27,7 +27,7 @@ No. The purchase is once. You receive the source code. There is no monthly platf
 
 ## Do you host my store?
 
-No. You deploy it on your own AWS account. The store and its data remain in that account. Deploy steps are in the [documentation](https://docs.fatleon.com/).
+No. You deploy it on your own AWS account. The store and its data remain in that account. What to prepare first is in the [prerequisites](prerequisites.md). Deploy steps are in the [documentation](https://docs.fatleon.com/).
 
 ## What kinds of products does it fit?
 
@@ -41,7 +41,7 @@ FatLeon fits goods you fulfill yourself. Product types are listed on the [featur
 
 ## Can I customize the source code?
 
-Yes. Restyling the storefront, fitting the market you sell in, and adding a tool the shop needs are the usual changes. Checkout, orders, and admin are already in the source. What ships is listed on the [feature list](features.md).
+Yes. Restyling the storefront, fitting the market you sell in, and adding a tool the shop needs are the usual changes. Checkout, orders, and admin are already in the source. Many of those changes are saved in the admin and do not need a new build. How far a change has to go is in [customization](customization.md). What ships is listed on the [feature list](features.md).
 
 ## How does multilingual work?
 

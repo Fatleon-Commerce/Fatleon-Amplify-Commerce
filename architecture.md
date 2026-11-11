@@ -116,10 +116,10 @@ The application does not include a domain, a mailbox, or a payment merchant acco
 | Stripe or PayPal | That provider bills you for payments it processes. Those charges are separate from the FatLeon license. |
 | The AWS account | Hosting, the API, the database, sign-in, files, and functions bill there. Access, security, monitoring, and backups stay with you. |
 
-Deploy steps start at [Launch to Amplify](https://docs.fatleon.com/getting-started/launch-to-amplify). How capacity follows traffic, and what a quiet store tends to cost, is in the [FAQ](faq.md).
+What to prepare first is in the [prerequisites](prerequisites.md). Deploy steps start at [Launch to Amplify](https://docs.fatleon.com/getting-started/launch-to-amplify). How capacity follows traffic, and what a quiet store tends to cost, is in the [FAQ](faq.md).
 
 ## Changing the storefront
 
-The sections above are how this deployment is connected. Saving a setting in the admin takes effect on the running store. A change to a file in the repository has to be pushed, and that Amplify build has to finish.
+The sections above are how this deployment is connected. Saving a setting in the admin takes effect on the running store. A change to a file in the repository has to be pushed, and that Amplify build has to finish. Which grade a change belongs to is in [customization](customization.md).
 
 Decoration images, navigation wording, and an added marketing page are mapped in [Where to change the storefront](https://docs.fatleon.com/reference/where-to-change). Product photos uploaded in the admin are the S3 files under `admin-pictures/`. They are separate from the images shipped in the repository.

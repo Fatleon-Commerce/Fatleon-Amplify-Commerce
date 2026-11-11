@@ -67,9 +67,9 @@ FatLeon uses technologies from the modern web and AWS ecosystem, including:
 | <a href="https://aws.amazon.com/dynamodb/"><img src="assets/icons/amazon-dynamodb.svg" width="28" height="28" alt="Amazon DynamoDB"></a> [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) | Database |
 | <a href="https://aws.amazon.com/s3/"><img src="assets/icons/amazon-s3.svg" width="28" height="28" alt="Amazon S3"></a> [Amazon S3](https://aws.amazon.com/s3/) | Storage |
 
-The exact services and configuration required depend on the application features you enable and your deployment setup. How a visit and an order move through these services is in the [architecture](architecture.md).
+The exact services and configuration required depend on the application features you enable and your deployment setup. How a visit and an order move through these services is in the [architecture](architecture.md). What to have ready before the first deploy is in the [prerequisites](prerequisites.md).
 
-FatLeon starts from a commerce foundation you can own, then leaves room to specialize the parts that make the business different. See the [design philosophy](design-philosophy.md).
+FatLeon starts from a commerce foundation you can own, then leaves room to specialize the parts that make the business different. See the [design philosophy](design-philosophy.md). What you change in the admin, and what has to be a code change, is in [customization](customization.md).
 
 ## Why AWS Amplify?
 
