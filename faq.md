@@ -57,7 +57,7 @@ Yes. AWS bills the account the store runs in. Stripe or PayPal bills you for pay
 
 ## What does it cost to keep the system running?
 
-FatLeon charges no maintenance fee. AWS bills for what you use. At the lowest usage, that monthly bill is usually under $10. That is a typical low-traffic figure, not a cap FatLeon guarantees.
+FatLeon charges no maintenance fee. AWS bills for what you use. At the lowest usage, that monthly bill is usually under $10. That is a typical low-traffic figure, not a cap FatLeon guarantees. How the bill is split, and which charges sit outside it, is in [Running costs](costs.md).
 
 ## Does the backend scale with usage?
 

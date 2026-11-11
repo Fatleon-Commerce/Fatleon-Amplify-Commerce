@@ -80,10 +80,10 @@ FatLeon uses AWS Amplify Gen 2 and managed AWS services so you spend less time m
 | Streamlined deployment | Managed hosting and Git-based CI/CD. You still set up the app, AWS resources, domains, and integrations. |
 | Less infrastructure to manage | Fewer servers and database instances to run yourself. Updates, access, security, monitoring, and backups stay with you. |
 | Designed to scale | Services can grow with traffic. Capacity and cost depend on architecture, quotas, and workload. |
-| Pay for what you use | A quiet store does not need an always-on application server. See the cost note below. |
+| Pay for what you use | A quiet store does not need an always-on application server. The monthly bill is in [Running costs](costs.md). |
 | Your AWS account | Code, configuration, and data stay in your account, under AWS terms and the FatLeon license. |
 
-An always-on EC2 `t3.small` in US East (N. Virginia) is about $15.18 per month for compute alone, before disk and data transfer. That instance is not elastic: it bills for every hour it stays on, whether the store has visitors or not. A low-traffic Amplify deployment can stay under $10, but FatLeon does not guarantee the total AWS bill will. Check current rates on the [EC2 pricing](https://aws.amazon.com/ec2/pricing/on-demand/) and [Amplify pricing](https://aws.amazon.com/amplify/pricing/) pages.
+A quiet deployment is usually under $10 a month. An always-on EC2 `t3.small` in US East (N. Virginia) is about $15.18 a month for compute alone. Cost and capacity for the two are compared in [Running costs](costs.md). FatLeon does not guarantee the total AWS bill. Check current rates on the [EC2 pricing](https://aws.amazon.com/ec2/pricing/on-demand/) and [Amplify pricing](https://aws.amazon.com/amplify/pricing/) pages.
 
 [Learn more about AWS Amplify](https://aws.amazon.com/amplify/) · [Explore AWS Amplify pricing](https://aws.amazon.com/amplify/pricing/)
 

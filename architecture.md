@@ -116,7 +116,7 @@ The application does not include a domain, a mailbox, or a payment merchant acco
 | Stripe or PayPal | That provider bills you for payments it processes. Those charges are separate from the FatLeon license. |
 | The AWS account | Hosting, the API, the database, sign-in, files, and functions bill there. Access, security, monitoring, and backups stay with you. |
 
-What to prepare first is in the [prerequisites](prerequisites.md). Deploy steps start at [Launch to Amplify](https://docs.fatleon.com/getting-started/launch-to-amplify). How capacity follows traffic, and what a quiet store tends to cost, is in the [FAQ](faq.md).
+What to prepare first is in the [prerequisites](prerequisites.md). Deploy steps start at [Launch to Amplify](https://docs.fatleon.com/getting-started/launch-to-amplify). How capacity follows traffic is in the [FAQ](faq.md). How a quiet month is split across services is in [Running costs](costs.md).
 
 ## Changing the storefront
 
